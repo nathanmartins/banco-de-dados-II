@@ -1,3 +1,5 @@
+-- ALUNO: Nathan Santos Martins
+
 CREATE
 DATABASE ELEICAO;
 
